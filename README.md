@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandre220279
-- 👀 I’m interested in apreender programação e criar site
+- 👀 I’m interested in apreender programação e criar site e aplicativos.
 - 🌱 I’m currently learning quero apreender para poder trabalhar na área, já que estou desempregado atualmente, estou iniciando nossos estudos nessa área. Também quero fazer aplicativos que facilitem e ajudem as pessoas.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
