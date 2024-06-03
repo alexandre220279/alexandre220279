@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+quero apreender para poder trabalhar na area, ja que estou desempregado atualmente,
+estou iniciando nos estudos nessa area. tambem quero fazer aplicativos que facilite e ajude pesssoas.
 <!---
 alexandre220279/alexandre220279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
